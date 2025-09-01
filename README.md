@@ -23,8 +23,7 @@ python -m src.gui
 
 python -m src.app samples\eicar.txt
 
-## 6) Model
+## 4) Model
 - The model is trained on 20% dataset of Ember-2018-V2-features in Kaggle using LightGBM model with accuracy of 92.09.
 
-## 6) Model
-- The model is trained on 20% dataset of Ember-2018-V2-features in Kaggle using LightGBM model with accuracy of 92.09.
+
