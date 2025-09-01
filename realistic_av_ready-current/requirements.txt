@@ -1,0 +1,6 @@
+yara-python
+python-magic-bin
+pefile
+oletools
+pdfminer.six
+tk
