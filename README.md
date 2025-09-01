@@ -1,5 +1,5 @@
 
-# Hybrid Antivirus  (Runs on Windows, Python 3.13) — No version traps
+# Hybrid Antivirus  (Runs on Windows, Python 3.13) 
 
 **What it does**
 - Scans single files or folders
